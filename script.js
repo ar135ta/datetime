@@ -19,27 +19,27 @@ function updateDate() {
     year = today.getFullYear();
 
   const months = [
-    "January",
-    "February",
-    "March",
+    "Januari",
+    "Februari",
+    "Maret",
     "April",
-    "May",
-    "June",
-    "July",
-    "August",
+    "Mei",
+    "Juni",
+    "Juli",
+    "Agustus",
     "September",
-    "October",
+    "Oktober",
     "November",
-    "December",
+    "Desember",
   ];
   const dayWeek = [
-    "Sunday",
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
+    "Minggu",
+    "Senin",
+    "Selasa",
+    "Rabu",
+    "Kamis",
+    "Jum'at",
+    "Sabtu",
   ];
   // value -> ID of the html element
   const IDCollection = ["day", "daynum", "month", "year"];
