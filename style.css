@@ -13,7 +13,7 @@ html {
 body {
   font-family: "Lato", sans-serif;
   background: #272727;
-  color: #ffd868;
+  color: #00ff01;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -31,7 +31,7 @@ body {
   display: flex;
   font-size: 5rem;
   font-weight: bold;
-  border: 2px solid #ffd868;
+  border: 2px solid #00ff01;
   padding: 10px 20px;
   border-radius: 5px;
   transition: ease-in-out 0.1s;
@@ -41,8 +41,8 @@ body {
 }
 
 .display-time:hover {
-  background: #ffd868;
-  box-shadow: 0 0 30px#ffd868;
+  background: #00ff01;
+  box-shadow: 0 0 30px#00ff01;
   color: #272727;
   cursor: pointer;
 }
