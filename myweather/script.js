@@ -12,27 +12,27 @@ var model = {
 
     conditions: {
         Clear: {
-            img: 'https://i.postimg.cc/pXgpTG0c/clear.png',
+            img: 'https://i.postimg.cc/sXs1pM9d/me.png',
             icon: 'CLEAR_DAY',
         },
         Clouds: {
-            img: 'https://i.postimg.cc/zGK3RC6z/clouds.png',
+            img: 'https://i.postimg.cc/sXs1pM9d/me.png',
             icon: 'CLOUDY',
         },
         Drizzle: {
-            img: 'https://i.postimg.cc/mrSDmbTK/drizzle.png',
+            img: 'https://i.postimg.cc/sXs1pM9d/me.png',
             icon: 'RAIN',
         },
         Rain: {
-            img: 'https://i.postimg.cc/63jQNY20/rain.png',
+            img: 'https://i.postimg.cc/sXs1pM9d/me.png',
             icon: 'RAIN',
         },
         Snow: {
-            img: 'https://i.postimg.cc/xdQ8GkVK/snow.png',
+            img: 'https://i.postimg.cc/sXs1pM9d/me.png',
             icon: 'SNOW',
         },
         Thunderstorm: {
-            img: 'https://i.postimg.cc/bJNvMKJr/Thunderstorm.png',
+            img: 'https://i.postimg.cc/sXs1pM9d/me.png',
             icon: 'CLOUDY',
         },
     },
